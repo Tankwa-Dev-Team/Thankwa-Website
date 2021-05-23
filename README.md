@@ -6,6 +6,10 @@ Thankwa Website Source Code Create by. [@PCNSIROJ](https://github.com/PCNSIROJ) 
 
 ![alt text](https://raw.githubusercontent.com/Tankwa-Dev-Team/Thankwa-Website/main/preview.png "Thankwa Website Preview")
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+## Contact PCNSIROJ
+
+<a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/pixpm_siroj.svg?style=social" /> </a>
+
+## Contact khunindy125
+
+<a href="https://twitter.com/pat_natth" ><img src="https://img.shields.io/twitter/follow/pat_natth.svg?style=social" /> </a>
