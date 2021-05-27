@@ -14,4 +14,4 @@ Thankwa Website Source Code Create by. [@PCNSIROJ](https://github.com/PCNSIROJ) 
 
 ## Contact khunindy125
 
-No Social
+`No Social`
