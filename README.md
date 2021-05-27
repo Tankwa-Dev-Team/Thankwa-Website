@@ -10,7 +10,7 @@ Thankwa Website Source Code Create by. [@PCNSIROJ](https://github.com/PCNSIROJ) 
 
 ## Contact PCNSIROJ
 
-<a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/pixpm_siroj.svg?style=social" /> </a>
+<a href="https://twitter.com/pixpm_siroj" ><img src="https://img.shields.io/twitter/follow/pixpm_siroj.svg?style=social" /> </a>
 
 ## Contact khunindy125
 
